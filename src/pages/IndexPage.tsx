@@ -1,6 +1,4 @@
 import { useEffect, useState } from "react"
-// import { useGetMovie } from "../hook/useGetMovie";
-// import { MovieList } from "../components/Movie/MovieList";
 import MovieCard from "./MovieCard";
 import SearchIcon from "./../search.svg";
 
