@@ -10,5 +10,9 @@ export const router = createBrowserRouter([
     {
         path: "/",
         element: <IndexPage/>
+<<<<<<< HEAD
     }
+=======
+    },
+>>>>>>> cc5251a (kinopoisk with omdb api)
 ])
